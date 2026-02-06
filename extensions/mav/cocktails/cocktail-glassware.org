@@ -1,0 +1,46 @@
+#+title: Cocktail Glassware Reference
+
+* Glassware
+:PROPERTIES:
+:ID: cocktail-glassware
+:END:
+
+** Coupe
+:PROPERTIES:
+:ID: glass-coupe
+:END:
+
+** Nick & Nora
+:PROPERTIES:
+:ID: glass-nick-and-nora
+:END:
+
+** Martini Glass
+:PROPERTIES:
+:ID: glass-martini
+:END:
+
+** Rocks / Old Fashioned
+:PROPERTIES:
+:ID: glass-rocks
+:END:
+
+** Highball
+:PROPERTIES:
+:ID: glass-highball
+:END:
+
+** Collins
+:PROPERTIES:
+:ID: glass-collins
+:END:
+
+** Tiki Mug
+:PROPERTIES:
+:ID: glass-tiki
+:END:
+
+** Wine Glass
+:PROPERTIES:
+:ID: glass-wine
+:END:

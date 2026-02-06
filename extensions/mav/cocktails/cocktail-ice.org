@@ -1,0 +1,42 @@
+#+title: Cocktail Ice Reference
+
+* Ice
+:PROPERTIES:
+:ID: cocktail-ice
+:END:
+
+** No Ice (Up / Straight)
+:PROPERTIES:
+:ID: ice-up
+:END:
+Cold, no ongoing dilution. Requires chilled glass.
+
+** Cubed Ice
+:PROPERTIES:
+:ID: ice-cubed
+:END:
+Standard bar ice. Balanced dilution.
+
+** Large Cube / Sphere
+:PROPERTIES:
+:ID: ice-large
+:END:
+Slow dilution, spirit-forward drinks.
+
+** Cracked Ice
+:PROPERTIES:
+:ID: ice-cracked
+:END:
+Fast chilling, moderate dilution.
+
+** Crushed Ice
+:PROPERTIES:
+:ID: ice-crushed
+:END:
+Maximum dilution, frosted glass.
+
+** Pebble / Nugget Ice
+:PROPERTIES:
+:ID: ice-pebble
+:END:
+Soft chew, fast chilling.

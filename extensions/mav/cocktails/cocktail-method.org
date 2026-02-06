@@ -1,0 +1,41 @@
+#+title: Cocktail Methods Reference
+
+* Method
+:PROPERTIES:
+:ID: cocktail-method
+:END:
+
+** Stirred
+:PROPERTIES:
+:ID: method-stirred
+:END:
+
+** Shaken
+:PROPERTIES:
+:ID: method-shaken
+:END:
+
+** Built
+:PROPERTIES:
+:ID: method-built
+:END:
+
+** Swizzle
+:PROPERTIES:
+:ID: method-swizzle
+:END:
+
+** Blended
+:PROPERTIES:
+:ID: method-blended
+:END:
+
+** Thrown / Rolled
+:PROPERTIES:
+:ID: method-thrown
+:END:
+
+** Carbonated
+:PROPERTIES:
+:ID: method-carbonated
+:END:
