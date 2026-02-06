@@ -1,7 +1,7 @@
 (neo/extension
  :name "cocktails"
  :title "Management of cocktail infrastructure"
- :publisher "neo"
+ :publisher "mav"
  :description "Version-Controlled Intoxication.\n\n
 "
  :categories (neo) ; not sure what the intention for this was
@@ -10,5 +10,5 @@
  :requires ()
  :repository (
 	      :type "git"
-	      :url "https://github.com/poly-repo/neo-extensions.git"
-	      :path "extensions/neo/cocktails"))
+	      :url "https://github.com/poly-repo/mav-extensions.git"
+	      :path "extensions/mav/cocktails"))

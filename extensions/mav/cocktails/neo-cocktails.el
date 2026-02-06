@@ -9,7 +9,7 @@
 
 (neo/use-package tempel)
 
-(require 'tempel)
+;(require 'tempel)
 (defvar tempel-paths '())
 (defvar tempel-template-sources '())
 
