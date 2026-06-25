@@ -1,3 +1,4 @@
+;;; -*- lexical-binding: t -*-
 (neo/extension
  :name "cocktails"
  :title "Management of cocktail infrastructure"
