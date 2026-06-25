@@ -39,7 +39,7 @@
         (org-with-wide-buffer
          (org-map-entries
           (lambda ()
-            (when-let ((id (org-entry-get nil "ID"))
+            (when-let* ((id (org-entry-get nil "ID"))
                        (title (org-get-heading t t t t)))
               (push (cons title id) results)))))))
     (nreverse results)))
