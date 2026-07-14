@@ -7,16 +7,11 @@
 (require 'org)
 (require 'org-id)
 
-(neo/use-package tempel)
-
-;(require 'tempel)
-(defvar tempel-paths '())
-(defvar tempel-template-sources '())
-
-(with-eval-after-load 'tempel
-  (add-to-list 'tempel-template-sources 'tempel-file)
-  (add-to-list 'tempel-paths
-               "/home/mav/.local/share/wtrees/mav-263-rework-side-window-management/devex/editors/emacs/"))
+(neo/use-package tempel
+  :custom
+  (tempel-path (expand-file-name
+                "org-cocktail.eld"
+                (file-name-directory (or load-file-name buffer-file-name)))))
 
 
 (defun neo/cocktail-new-recipe ()
